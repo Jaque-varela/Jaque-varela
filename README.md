@@ -14,7 +14,7 @@
   
 <h3 align="left">Connect with me:</h3>
   
-<a href="https://www.linkedin.com/in/jaqueline-varela-397065268" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="Jaqueline-varela" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaqueline-varela-397065268" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="Jaqueline-varela" height="40" width="40" /></a>
   
  ##
   <br>
